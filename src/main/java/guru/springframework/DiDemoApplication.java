@@ -11,6 +11,8 @@ import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
 @ComponentScan(basePackages = {"guru.services", "guru.springframework"})
+
+//Test
 public class DiDemoApplication {
 
 	public static void main(String[] args) {
